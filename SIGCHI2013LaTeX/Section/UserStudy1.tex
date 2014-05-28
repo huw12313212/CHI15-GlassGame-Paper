@@ -1,6 +1,5 @@
 \section{User Study 1}
-\subsection{Goal}
-
+goal
 \begin{enumerate}
 \item Process of gameplay
 \item User's feedback for existing games
@@ -25,7 +24,7 @@ Voice control always out of control
    \begin{tabular}{|p{0.4\columnwidth}|p{0.3\columnwidth}|}
      \hline
      % \tabhead{Objects} &
-     \multicolumn{1}{|p{0.3\columnwidth}|}{\centering\tabhead{Issue Category}} &
+     \multicolumn{1}{|p{0.3\columnwidth}|}{\centering\tabhead{Category}} &
      \multicolumn{1}{|p{0.5\columnwidth}|}{\centering\tabhead{User Feedback}} \\
      \hline
      Focusing on Glass too long is not comfortable & \tabincell{c}{p1: hihi I'm p1. I'm feedback.\\p2: hihi I'm p2. I'm feedback2.} \\
@@ -45,7 +44,26 @@ Voice control always out of control
      Voice control always out of control & \\
      \hline
    \end{tabular}
-   \caption{Table captions should be placed below the table.}
+   \caption{Small Sun.}
+   \label{tab:table1}
+ \end{table}
+
+ \begin{table}[!h]
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+   \centering
+   \begin{tabular}{|p{0.4\columnwidth}|p{0.3\columnwidth}|}
+     \hline
+     % \tabhead{Objects} &
+     \multicolumn{1}{|p{0.3\columnwidth}|}{Game Play Feedback} &
+     \multicolumn{1}{|p{0.5\columnwidth}|}{Level design, Music, Visual art, Casual, Challenge, Game for purpose, Innovative, Physics, Immersion} \\
+     % \multicolumn{1}{|p{0.3\columnwidth}|}{\centering\tabhead{Game Play Feedback}} &
+     % \multicolumn{1}{|p{0.5\columnwidth}|}{\centering\tabhead{User Feedback}} \\
+     \hline
+     \multicolumn{1}{|p{0.3\columnwidth}|}{Glass Related Feedback} & 
+     \multicolumn{1}{|p{0.5\columnwidth}|}{Gyro, In-air gesture, Tap, Voice control, Eye tiring, Social acceptable, AR} \\
+     \hline
+   \end{tabular}
+   \caption{We collect 304 feedbacks and manually divide into 16 categories.}
    \label{tab:table1}
  \end{table}
 
