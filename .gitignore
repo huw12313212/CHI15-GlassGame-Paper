@@ -1,0 +1,8 @@
+*.aux
+*.bbl
+*.blg
+*_latexmk
+*.log
+*.out
+chi15_glassgame.pdf
+*.synctex.gz
