@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex sigchi-sample"] 1401182021 "sigchi-sample.aux" "sigchi-sample.bbl" "sigchi-sample" 1401182051
+["bibtex sigchi-sample"] 1401287593 "sigchi-sample.aux" "sigchi-sample.bbl" "sigchi-sample" 1401287595
   "./acm-sigchi.bst" 1313097414 20072 e6117c8e1df770982b2669fe3a5732f1 ""
-  "sample.bib" 1320239012 1722 3f02dcc7125bb008e5449d89db8e9f61 ""
-  "sigchi-sample.aux" 1401182050 3430 87c962f833f3dda9d764b05f01f3d1b2 ""
+  "sample.bib" 1401287585 2265 3b97c7f002209dcb2487069ed50de0c9 ""
+  "sigchi-sample.aux" 1401287595 3618 b9b6a2b04ab1212b0f1dd1bd43db70bc ""
   "sigchi-sample.bcf" 0 -1 0 ""
   (generated)
   "sigchi-sample.blg"
   "sigchi-sample.bbl"
-["pdflatex"] 1401182049 "sigchi-sample.tex" "sigchi-sample.pdf" "sigchi-sample" 1401182051
+["pdflatex"] 1401287594 "sigchi-sample.tex" "sigchi-sample.pdf" "sigchi-sample" 1401287595
   "/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -53,10 +53,10 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty" 1156702453 857 6c716f26c5eadfb81029fcd6ce2d45e6 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "Figure1.png" 1320239012 427686 0a7d739ebdf399bf01272ffdd5a12455 ""
-  "sigchi-sample.aux" 1401182050 3430 87c962f833f3dda9d764b05f01f3d1b2 ""
-  "sigchi-sample.bbl" 1401182022 1275 cbb47351bcc8f547315022a2802469d3 "bibtex sigchi-sample"
-  "sigchi-sample.out" 1401182050 1293 05bbd3c2b8527577efbd8ac1828d7ac8 ""
-  "sigchi-sample.tex" 1401182049 19185 43d35c9747a469e83b898621e087751e ""
+  "sigchi-sample.aux" 1401287595 3618 b9b6a2b04ab1212b0f1dd1bd43db70bc ""
+  "sigchi-sample.bbl" 1401287594 1687 c6dedf2c406d49f6b9c6b160df049a4e "bibtex sigchi-sample"
+  "sigchi-sample.out" 1401287595 1293 05bbd3c2b8527577efbd8ac1828d7ac8 ""
+  "sigchi-sample.tex" 1401287590 19916 a4039efb6affa557d6d6267babb89c08 ""
   "sigchi.cls" 1374513732 53622 594eca156a7e3fa10b48b032bbe2f34a ""
   (generated)
   "sigchi-sample.out"

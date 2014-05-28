@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.27)  27 MAY 2014 17:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.27)  28 MAY 2014 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,23 +396,426 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 90.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 108.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 108.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 103.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 103.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 108.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 144.
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 103.
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ∂ in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ° in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no Æ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no á in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no è in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ª in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no æ in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ≠ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ≠ in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¶ in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no è in font ptmr7t!
+Missing character: There is no æ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no É in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no é in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no ç in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ê in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no º in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no Ø in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no π in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no µ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no á in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Æ in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ï in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no ∞ in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no È in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no æ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no „ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ë in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∫ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no æ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no õ in font ptmr7t!
+Missing character: There is no ¥ in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no † in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no ∑ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ö in font ptmr7t!
+Missing character: There is no • in font ptmr7t!
+Missing character: There is no Á in font ptmr7t!
+Missing character: There is no ö in font ptmr7t!
+Missing character: There is no Ñ in font ptmr7t!
+Missing character: There is no Ê in font ptmr7t!
+Missing character: There is no é in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no Ë in font ptmr7t!
+Missing character: There is no ® in font ptmr7t!
+Missing character: There is no é in font ptmr7t!
+Missing character: There is no ‰ in font ptmr7t!
+Missing character: There is no ∏ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no „ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ç in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 146.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 144.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -420,56 +823,57 @@ Non-PDF special ignored!
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
- <Figure1.png, id=115, 451.6875pt x 328.97906pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 195.
+ <Figure1.png, id=122, 451.6875pt x 328.97906pt>
 File: Figure1.png Graphic file (type png)
 
 <use Figure1.png>
-Package pdftex.def Info: Figure1.png used on input line 207.
+Package pdftex.def Info: Figure1.png used on input line 209.
 (pdftex.def)             Requested size: 219.58264pt x 159.93114pt.
 
 
-LaTeX Warning: Reference `fig:figure2' on page 2 undefined on input line 282.
+LaTeX Warning: Reference `fig:figure2' on page 2 undefined on input line 284.
 
 [2 <./Figure1.png>]
-Underfull \hbox (badness 1348) in paragraph at lines 348--350
+Underfull \hbox (badness 1348) in paragraph at lines 350--352
 []\OT1/ptm/m/n/10 For more in-for-ma-tion and links to in-struc-tions and re-
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 348--350
+Underfull \hbox (badness 1067) in paragraph at lines 350--352
 \OT1/ptm/m/n/10 sources, please see: [][]$\OT1/pcr/b/n/8 http : / / chi2014 . a
 cm . org / authors /
  []
 
-(./sigchi-sample.bbl
+[3] (./sigchi-sample.bbl
+Overfull \hbox (8.41777pt too wide) in paragraph at lines 26--29
+\OT1/pcr/b/n/8 infographic-[]mobile-[]gaming-[]statistics-[]stats-[]2011/$[][]\
+OT1/ptm/m/n/10 .  
+ []
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[3])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 440.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 440.
  (./sigchi-sample.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 440.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 440.
 Package rerunfilecheck Info: File `sigchi-sample.out' has not changed.
 (rerunfilecheck)             Checksum: 05BBD3C2B8527577EFBD8AC1828D7AC8;1293.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 438.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 440.
  ) 
 Here is how much of TeX's memory you used:
- 6343 strings out of 493315
- 90836 string characters out of 6137904
- 183022 words of memory out of 5000000
- 9634 multiletter control sequences out of 15000+600000
+ 6349 strings out of 493315
+ 90921 string characters out of 6137904
+ 183121 words of memory out of 5000000
+ 9637 multiletter control sequences out of 15000+600000
  32208 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,30p,621b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,30p,621b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.25} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -522,10 +926,10 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on sigchi-sample.pdf (4 pages, 543697 bytes).
+Output written on sigchi-sample.pdf (4 pages, 546440 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
  182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
