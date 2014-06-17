@@ -35,19 +35,25 @@ About the process of our user study, we gave user five minutes to play each game
    \label{tab:gameControlTypes}
  \end{table}
 
-
-
 \subsection{User feedback}
-We collect totally 304 feedback from users (141 positive feedback,163 negative feedback), after reviewing all feedback, we notice that some feedback is not glass related. For instance ,user might complain about the level design or visual art and admire to the innovative game design or good to listen music. so we design to remove the feedback which are not related with glass and remain 125 feedback in the end(45 positive feedback,80 negative feedback). we summerize all feedback in Table \ref{tab:table1}.
+We collect totally 304 feedback from users (141 positive feedback,163 negative feedback), after reviewing all feedback, we notice that some feedback is not glass related. For instance ,user might complain about the level design or visual art and admire to the innovative game design or good to listen music. so we categorized the feedback into 16 categories (see Table \ref{tab:issueType}).And we removed the feedback which are not related with glass and remain 131 feedback in the end(45 positive feedback,86 negative feedback). we summerize all feedback issue in Table \ref{tab:result1}. We can briefly divide all negative feedback into 6 main issue categories which are Gyro, In-Air Gesture, Voice control, Eye Tiring, Social Acceptable, Tapping.(see Figure~\ref{fig:negativeFeedback}).
 
-Focusing on Glass too long is not comfortable
-Gyro is comfortable for 1D and 2D control
-Gyro with 360 degree is BAD
-Voice Control \& In-Air Gesture are NOT social acceptable
-tapping is acceptable many tappings are annoying
-In air gesture is tiring
-Current in air gesture detecting sucks
-Voice control always out of control
+
+\subsection{New issue with glass}
+According to negative feedback from user (see Figure~\ref{fig:negativeFeedback}),the issue of Gyro, In-Air Gesture, Voice control and Tapping are all part of control issue. and we combine them as ``Limited control''. so we can conclude three new issues , ``Limited control'', ``Eye tiring'' and ``Social acceptable'' which are not exist in traditional game design.
+
+\begin{enumerate}
+\item Limited control : There is no affective powerful gaming input like mouse, keyboard, joystick or touch screen on google glass. There are some non-traditional gaming input like camera, small touch pad, microphone, gyroscope, accelerometer. How to use these new control in glass game design is still an open question.
+
+\item Eye tiring : Not like traditional gaming platform, playing game with glass need more intence of eye muscle, and user report that it is really easy to feel eye tiring. So game design with google glass should control the gaming duration really carefully, focusing on glass in a long time is not practical.
+
+\item Social acceptable : Although we can use voice control and in-air gesture on google glass, we have to use them carefully, and check if our control scheme is social acceptable.
+
+\end{enumerate}
+
+
+%And we can briefly divide the negative feedback into 6 main issue categories``Limited control'', ``Eye tiring'' and ``Social acceptable''(see Figure~\ref{fig:negativeFeedback}), which are not exist in traditional game design.
+
 
 
 
@@ -72,13 +78,14 @@ Voice control always out of control
      \hline
      In air gesture is tiring & \\ p11:手要一直舉在眼前，手會很酸。 \\p12:玩到後面手很酸，會不想把手抬起來。
      \hline
-     Current in air gesture detecting sucks & \\
+     Current in air gesture detecting is imprecise & \\ p13:手揮的動作跟畫面上的反應，關係非常的loose。你揮的位置跟砍的位置完全分開。\\p14:我無法掌握攝影機的範圍，操作範圍非常模糊。
      \hline
-     Voice control always out of control & \\
+     Voice control always out of control & \\ p15:他不能去分出是旁邊的噪音還是我發出的。 
+     \\p16:會輕鬆的被干擾，發出任何聲音球都會跑出去。
      \hline
    \end{tabular}
    \caption{Small Sun.}
-   \label{tab:table1}
+   \label{tab:result1}
  \end{table}
 
  \begin{table}[!h]
@@ -87,17 +94,17 @@ Voice control always out of control
    \begin{tabular}{|p{0.4\columnwidth}|p{0.3\columnwidth}|}
      \hline
      % \tabhead{Objects} &
-     \multicolumn{1}{|p{0.3\columnwidth}|}{Game Play Feedback} &
+     \multicolumn{1}{|p{0.3\columnwidth}|}{Traditional issue} &
      \multicolumn{1}{|p{0.5\columnwidth}|}{Level design, Music, Visual art, Casual, Challenge, Game for purpose, Innovative, Physics, Immersion} \\
      % \multicolumn{1}{|p{0.3\columnwidth}|}{\centering\tabhead{Game Play Feedback}} &
      % \multicolumn{1}{|p{0.5\columnwidth}|}{\centering\tabhead{User Feedback}} \\
      \hline
-     \multicolumn{1}{|p{0.3\columnwidth}|}{Glass Related Feedback} & 
+     \multicolumn{1}{|p{0.3\columnwidth}|}{Glass related issue} & 
      \multicolumn{1}{|p{0.5\columnwidth}|}{Gyro, In-air gesture, Tap, Voice control, Eye tiring, Social acceptable, AR} \\
      \hline
    \end{tabular}
    \caption{We collect 304 feedbacks and manually divide into 16 categories.}
-   \label{tab:table1}
+   \label{tab:issueType}
  \end{table}
 
 % \begin{table}
@@ -113,21 +120,21 @@ Voice control always out of control
 \begin{figure}[!t]
 \centering
 \includegraphics[width=0.9\columnwidth]{Figures/US1_userfeedbackStatistics.png}
-\caption{Hi I'm Small Sun.}
-\label{fig:PS_Frus}
+\caption{We catogorize glass related negative feedback into 6 categories. Gyro, In-Air Gesture, Voice control and Tapping are all part of control issue.}
+\label{fig:negativeFeedback}
 \end{figure}
 
 
-\subsection{Observation}
+%\subsection{Observation}
 % \begin{enumerate}
 % \item NOT social acceptable != NOT fun
 % \item Small movement is better
 % \end{enumerate}
-From user feedback, although social acceptable would make an influence on glass game play experience, most users still think game play experience is fun and interesting. With this condition, we can conclude that social acceptable is independent to the level of fun and enjoyment. In other words, if a game has low social acceptable rate, it does not mean the game is not fun or users don't like it. In addition, we also find that small movement interacting with google glass is better and more perferred for users. 
+%From user feedback, although social acceptable would make an influence on glass game play experience, most users still think game play experience is fun and interesting. With this condition, we can conclude that social acceptable is independent to the level of fun and enjoyment. In other words, if a game has low social acceptable rate, it does not mean the game is not fun or users don't like it. In addition, we also find that small movement interacting with google glass is better and more perferred for users. 
 
 
 \subsection{User imagination}
-After playing all four games, we also asked users to imagine what kind of games on google glass will they like the most in user study 1. With existing glass game scene and users' originality, they brought up thirty-seven interesting glass game scenario in total. We divided them into six types of game, ``First-Person Shooter'', ``Reality Puzzle Game'', ``Social Game'', ``Sport Game'', ``Management Game'', and ``Others'' respectively (see Figure~\ref{fig:US1_TypesOfGame}). We also found that one-third of users want like first-person shooter game the most. So we decided to implement a first-person shooter game which will support multiple types of control style for users. With this design, not only users can choose which control type they like the most by their own, but we also can find out the best control style from users' feedback for first-person game on google glass and design a guideline to make better game play experience.
+After playing all four games,in our final interview we also asked users to imagine what kind of games on google glass will they like the most in user study 1. With existing glass game scene and users' originality, they brought up thirty-seven interesting glass game scenario in total. We divided them into six types of game, ``First-Person Shooter'', ``Reality Puzzle Game'', ``Social Game'', ``Sport Game'', ``Management Game'', and ``Others'' respectively (see Figure~\ref{fig:US1_TypesOfGame}). We also found that one-third of users want like first-person shooter game the most. So we decided to implement a first-person shooter game which will support multiple types of control style for users. With this design, not only users can choose which control type they like the most by their own, but we also can find out the best control style from users' feedback for first-person game on google glass and design a guideline to make better game play experience.
 
 \begin{figure}[!t]
 \centering
