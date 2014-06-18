@@ -1,43 +1,53 @@
 \section{Game Prototype}
 
-To get deeper understanding of glass game design, we have to build a game by ourself, so that we can have some control variable to do direct compare with different settings. According to the user imagination from user study 1, there are five different game type player suggested. We choose FPS as our game type, because there are most user want to play FPS game, and there are most control issues in this game type. We expect we can satisfy most user and get most useful knowledge by studying and implement this game type.
-
-
+In order to get deeper understanding of glass game design, we implement a game by ourself, so that we can have some control variable to change directly by ourselves and compare with different settings. 
+According to user imagination from user study 1, there are five different type of game which players suggest. We choose FPS, with the highest number of users who wants to play, as our game type.
+And FPS also has the most control issues in it's type. 
+We expect that our FPS game can satisfy most user and get  useful knowledge by studying and implement this type of game.
 
 \subsection{Control}
-There are 4 main controls in FPS game, the first one is the viewport control, it's about how user to change camera perspection and observe the surrounding environment. The second one is aim control, how does player to aim their enemy target. The third one is fire control, how does player trigger the fire to beat the enemy. The fourth is the move control, how does player to control avator position and dodge the bullet from enemy.
+There are four main controls in FPS game. 
+The first control is the viewport control, which emphasizes on how user can change camera's perspective and observes the surrounding environment.
+The second one is aim control, which attaches importance to  know how player aim their target or enemy. 
+The third control is fire control, laying stress on how player trigger the fire to beat their enemy. 
+And the last one is the move control, which focuses on how  player controls avator's position and dodges the bullet from enemy.
 
-Smart Glass are not meant to replace smart phone\cite{lecture}, they should complement the insufficient of each other. And google glass are designed to be always connect with smart phone through bluetooth. So we include smart phone as controller as a candidate in design of our control scheme.
+Although smart glass is new wearable device to interact with users and will be more powerful in the future, it does not meant that smart glass will replace smart phone\cite{lecture}. 
+With these two different typies of device, they should complement each other to make up their own deficiency.
+Furthermore, google glass is designed to always connects with smart phone through bluetooth. So we can include smart phone as controller for our game designs and control scheme intuitively.
 
-According to previous work\cite{headvideo,tele,robot,viewport}, using head orientation as viewport control is no doubtly intuitive and user prefered because of the metaphor of moving our own head. But is using head orientation really suitable for users to aim the target is not confirmed. So we supposed 3 different aim control schemes to confirm which would be the user's favorite. The 3 different aim control schemes is listing here:
+According to previous work\cite{headvideo,tele,robot,viewport}, using head orientation as a viewport control is undoubtedly intuitive. And user prefered because of the metaphor of moving our own head. However, we can't confirm whether using head orientation is really suitable for users to aim the target. 
+So we supposed 3 different aim control schemes to test which would be the most favorite control for user. 
+Three different aim control schemes are listing below:
 
 \begin{enumerate}
-\item Viewport aiming scheme : The most traditional one method, just put a sight bead in the center of viewport, player can aim the enemy by moving their view port. In another word, player are using head orientation to aim the target.
+\item Viewport aiming scheme: The most traditional method we choose. Game designer just need to put a sight bead in the center of viewport. Player can aim the enemy by using their head to move their viewport. In other words, player are using head orientation to aim the target.
 
-\item Gun aiming scheme : Consider you smart phone as a small gun and use your phone orientation to aim the target. The sight bead will show on the google glass screen to help user do micro movement aiming.
+\item Gun aiming scheme: Considering your smart phone as a small gun. Player can use his phone orientation to aim the target. The sight bead will show on the google glass screen to help user aim at even micro movement.
 
-\item Phone joystick scheme : Using smart phone as a joystick to move the sight bead on the glass screen.
+\item Phone joystick scheme: Using smart phone as a joystick to move the sight bead on the glass screen.
 \end{enumerate}
 
-We supposed 3 different firing controls as below :
+We also bring up 3 different firing controls as below:
+
 \begin{enumerate}
-\item Phone trigger scheme : Use the touch screen on mobile phone as the firing trigger, player just fire by tapping on their phone.
+\item Phone trigger scheme: Using touch screen on mobile phone as the firing trigger. Player can just fire by tapping their phone touchscreen.
 
-\item Glass tapping scheme : Player use finger to tap on glass touch pad to trigger gun fire.
+\item Glass tapping scheme: Player uses fingers to tap on glass touchpad to trigger gun fire.
 
-\item Voice control scheme : Player use voice control like the sound of ``Bang'' to tirgger gun fire.
+\item Voice control scheme: Player uses voice control, such as the sound of ``Bang'', to tirgger gun fire.
 
-\item Blink eye scheme : Player use intentional eye blinking as a fire trigger.
+\item Blink eye scheme: Player uses intentional eye blinking as a fire trigger.
 \end{enumerate}
 
-We supposed 3 moving control scheme :
+We propose 3 moving control scheme :
 
 \begin{enumerate}
-\item Head gesture scheme : We borrow the control style from the work of Hinkel et al.\cite{wheel}, and implement the system in our FPS game control system.
+\item Head gesture scheme: We borrow the control style from the work of Hinkel et al.\cite{wheel}, and implement the system in our FPS game control system.
 
-\item Phone controller scheme : Using smart phone as a joystick to move the player by manipulating the touch screen.
+\item Phone controller scheme: Using smart phone as a joystick to move the player by manipulating the touch screen.
 
-\item On track moving scheme : This is a trick one, we can't exclude the possibility that control player movement is not suitable for glass game. In this scheme we design a pre-defined track for player, and player will move on the track automaticlly. So player can focus on aiming and fighting, then ignore the movement control.
+\item On track moving scheme: This is a trick one. We can't exclude the possibility that control player's movement is not suitable for glass game. Therefore, we design a pre-defined track for player in this scheme, and player will move on the track automaticlly. So player can focus on aiming and fighting, rather than the movement control.
 \end{enumerate}
 
 %\subsection{Art Style}
